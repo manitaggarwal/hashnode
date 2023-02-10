@@ -11,10 +11,10 @@ Using Java Generics, we can create a document to store any JSON information on t
 ## REST Controller
 
 ```java
-    @PostMapping(value = "/logs", consumes = "application/json", produces = "text/plain")
-    public void addLogs(@RequestBody LoggingRequest<?> request) {
-        loggingService.saveLogs(request);
-    }
+@PostMapping(value = "/logs", consumes = "application/json", produces = "text/plain")
+public void addLogs(@RequestBody LoggingRequest<?> request) {
+    loggingService.saveLogs(request);
+}
 ```
 
 ## Request
