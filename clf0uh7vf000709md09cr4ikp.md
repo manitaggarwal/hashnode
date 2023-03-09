@@ -3,6 +3,7 @@ title: "Rest Assured - Testing RESTful APIs"
 datePublished: Thu Mar 09 2023 08:26:12 GMT+0000 (Coordinated Universal Time)
 cuid: clf0uh7vf000709md09cr4ikp
 slug: rest-assured
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1678350468966/f3376504-b208-4b17-9fd4-4f55d5423c0b.webp
 tags: java, testing, rest-api, springboot, rest-assured
 
 ---
